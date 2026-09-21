@@ -1,5 +1,5 @@
 {
   "database": "mongodb://localhost:27017",
-  "admin_user": "praneel",
-  "master_password": "ENV_VAR_HIDDEN"
+  "admin_user": "admin",
+  "master_password": "flag{g1t_c0mm1t_h1st0ry_n3v3r_f0rg3ts}"
 }
